@@ -1,0 +1,83 @@
+body {
+    color: white;  
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#searchIcon {
+    box-sizing: border-box;
+    background-color: red;
+    color: white;
+    height: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+#cart {
+    background-color: white;
+}
+
+.links {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    padding-right: 30px;
+    width: 50%;
+}
+
+.links li {
+    display: inline;  
+}
+
+.navRightSide {
+    padding: 5px 5px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: auto;
+}
+
+.navRightSide li {
+    text-align: right;
+}
+
+.logo {
+    margin: 0;
+    padding: 25px 25px;
+    background-color: red;
+    color: white;
+}
+
+.search {
+    display: inline;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: black;
+}
+
+a:links, a:visited {
+    color: white;
+}
+
+img {
+    height: 10px;
+    width: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
